@@ -1,5 +1,8 @@
 # Weather App
 
+### HTML, CSS, and JavaScript
+
+## Description
 Check the weather in your city or enter any city names around the world and get a quick glance at the current temperature of the city in real time. If you enter the wrong name, an invalid message will be displayed.
 
 This weather app allows you to view:
